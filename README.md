@@ -1,6 +1,6 @@
 # WIP
 
-I'm still working on this-- everything will be open sourced soon.
+I'm still working on this-- everything will be open sourced and a compiled app will be released soon. macOS only.
 
 # KOTOR 1 Mod Manager
 
@@ -11,20 +11,17 @@ Welcome to KOTOR 1 Mod Manager (K1MM for short), a tool designed to allow easy a
 - [KOTOR 1](https://apps.apple.com/dk/app/star-wars-kotor/id416608891?l=da&amp;mt=12) \*
 - [TSLPatcher](https://deadlystream.com/files/file/1039-tsl-patcher-tlked-and-accessories/)
 
-
-\* You will need an .ipa file for this. I fly the Jolly Roger, but CrackerXI+ (if jailbroken) or [ipatool](https://github.com/Paisseon/ipatool/releases/tag/v1.1.0-paisseon) can also help.
+\* You will need an .ipa file for this. I [fly the Jolly Roger](https://0bin.net/paste/htdgPTtm#bgKxFLE44xy24hbncVIXwceVXhpZo2kkWc8qQTstqbG), but CrackerXI+ (if jailbroken) or [ipatool](https://github.com/Paisseon/ipatool/releases/tag/v1.1.0-paisseon) can also help.
 
 **Setup Instructions**
-1. Rename your KOTOR .ipa to KOTOR.zip and decompress. Then move KOTOR.app to ~/Documents
+1. Rename your .ipa file to KOTOR.ipa and ensure that it is located at ~/Downloads/KOTOR.ipa
 2. Ensure that TSLPatcher is located at ~/Downloads/TSLPatcher.exe
 3. Open CrossOver and create a 64-bit Windows 10 bottle named, exactly: Windows10
-4. Ensure that `which curl` does not yield an error
-5. Copy and paste this command: `sh <(curl -s https://raw.githubusercontent.com/Paisseon/K1ModManager/emt/setup.sh)`
-6. Open K1MM from /Applications and click on Quicker TSLPatching
+4. Open K1MM from /Applications and click on Setup Environment
 
 **Installing Mods**
 1. Select mods from the list of checkboxes on the left, or click Select All on the right if you want the full build
-2. Click Download Selected. This may take a couple minutes as the full build is approximately 1 GB
+2. Click Download Selected. This may take a minute as the full build is approximately 1 GB
 3. When the download is finished (it will tell you), click Install Selected
 4. As mods install, you will see alerts about TSLPatcher. Only click these **AFTER** you have fully installed the TSLPatcher mod, as doing otherwise will cause problems.
 5. When the install is finished (it tells you this, too), click Fix Case Sensitivity
@@ -34,6 +31,6 @@ Welcome to KOTOR 1 Mod Manager (K1MM for short), a tool designed to allow easy a
 2. Move KOTOR.app into ~/Documents/Payload
 3. Compress ~/Documents/Payload into Payload.zip
 4. Rename Payload.zip into Payload.ipa
-5. Sideload Payload.ipa to your iOS device (jailed users: try [AltStore](https://altstore.io))
+5. Sideload Payload.ipa to your iOS device (non-jailbroken users: try [AltStore](https://altstore.io) or [Sideloadly](https://sideloadly.io))
 
 [Rejoice! Your wish for mods on KOTOR iOS has, at last, come true.](https://www.youtube.com/watch?v=NyP49XSA50g)
