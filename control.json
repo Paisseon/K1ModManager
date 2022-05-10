@@ -814,7 +814,7 @@
     "tier": 2,
     "tsl": true,
     "dependencies": [],
-    "instructions": "-",
+    "instructions": "If you are using Loadscreens in Colour and/or HD Blasters, install their respective options AFTER the main install.",
     "url": "Republic_Ship_Unknown_World",
     "developer": "LDR",
     "description": "Add a whole new module to the last planet"
@@ -862,7 +862,7 @@
     "order": 71,
     "category": 5,
     "tier": 2,
-    "tsl": false,
+    "tsl": true,
     "dependencies": [],
     "instructions": "-",
     "url": "Sneak_Attack_10_Restoration",
