@@ -867,7 +867,7 @@
     "instructions": "-",
     "url": "Sneak_Attack_10_Restoration",
     "developer": "N-DReW25",
-    "description": "Restore the Sneak Attack 10 feat"
+    "description": "Restore the Sneak Attack 10 feat for Scoundrels"
   },
   "Sherruk_Lightsaber": {
     "name": "Sherruk with Lightsabers",
@@ -896,7 +896,7 @@
     "description": "Fix for the Sherruk with Lightsabers mod"
   },
   "Helena_Shan_Improvement": {
-    "name": "Helena Improvement",
+    "name": "Helena Shan Improvement",
     "order": 74,
     "category": 1,
     "tier": 2,
@@ -905,10 +905,10 @@
     "instructions": "-",
     "url": "Helena_Shan_Improvement",
     "developer": "VarsityPuppet",
-    "description": "Make Helena look more like her daughter"
+    "description": "Make Helena Shan look more like her daughter"
   },
   "Bastila_Dark_Bodysuit": {
-    "name": "Bastila's New Bodysuit",
+    "name": "Bastila's Dark Bodysuit",
     "order": 75,
     "category": 5,
     "tier": 1,
@@ -917,7 +917,7 @@
     "instructions": "Use the regular install",
     "url": "Bastila_Dark_Bodysuit",
     "developer": "JCarter426",
-    "description": "Give Bastila a new bodysuit when she loses hers"
+    "description": "Give Bastila a new bodysuit on the last planet"
   },
   "Taris_Dueling_Adjustment": {
     "name": "Dueling Arena Adjustment",
@@ -974,7 +974,7 @@
     "tier": 4,
     "tsl": true,
     "dependencies": [],
-    "instructions": "-",
+    "instructions": "Install the main and optional choices",
     "url": "Missing_Lamp_Fix",
     "developer": "Ebmar",
     "description": "Restore lamps to the Rakatan temple"
@@ -986,7 +986,7 @@
     "tier": 3,
     "tsl": true,
     "dependencies": [],
-    "instructions": "-",
+    "instructions": "Either main or alternate install works",
     "url": "Sith_Soldier_Texture",
     "developer": "A Future Pilot",
     "description": "Restore unique armour for elite Sith"
@@ -1022,7 +1022,7 @@
     "tier": 2,
     "tsl": true,
     "dependencies": [],
-    "instructions": "-",
+    "instructions": "Install the revisited version",
     "url": "Dodonna_Transmission",
     "developer": "danil-ch",
     "description": "Fix light-side player character being invisible in endgame cutscenes"
@@ -1094,7 +1094,7 @@
     "tier": 3,
     "tsl": true,
     "dependencies": [],
-    "instructions": "-",
+    "instructions": "Install the compatibility option, if applicable, AFTER the main install",
     "url": "Ajunta_Pall_Blade",
     "developer": "Ebmar",
     "description": "Give Ajunta Pall's true sword a unique appearance"
@@ -1178,7 +1178,7 @@
     "tier": 3,
     "tsl": true,
     "dependencies": [],
-    "instructions": "-",
+    "instructions": "Select the vanilla version",
     "url": "Galaxy_Map_Fix",
     "developer": "Kexikus & SithHolocron",
     "description": "Add canonical planet positioning on the Ebon Hawk map"
@@ -1202,7 +1202,7 @@
     "tier": 4,
     "tsl": true,
     "dependencies": [],
-    "instructions": "-",
+    "instructions": "Select KOTOR option",
     "url": "Walking_Animation_Fix",
     "developer": "ZimmMaster",
     "description": "Fix the weird walking animation bug"
