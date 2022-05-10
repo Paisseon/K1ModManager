@@ -14,7 +14,7 @@ Welcome to KOTOR 1 Mod Manager (K1MM for short), a tool designed to allow easy a
 \* You will need an .ipa file for this. I [fly the Jolly Roger](https://0bin.net/paste/htdgPTtm#bgKxFLE44xy24hbncVIXwceVXhpZo2kkWc8qQTstqbG), but CrackerXI+ (if jailbroken) or [ipatool](https://github.com/Paisseon/ipatool/releases/tag/v1.1.0-paisseon) can also help.
 
 **Setup Instructions**
-1. Rename your .ipa file to KOTOR.ipa and ensure that it is located at ~/Downloads/KOTOR.ipa
+1. Rename your .ipa file to KOTOR_1.2.7.ipa and ensure that it is located at ~/Downloads/KOTOR_1.2.7.ipa
 2. Ensure that TSLPatcher is located at ~/Downloads/TSLPatcher.exe
 3. Open CrossOver and create a 64-bit Windows 10 bottle named, exactly: Windows10
 4. Open K1MM from /Applications and click on Setup Environment
