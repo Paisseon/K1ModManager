@@ -1049,7 +1049,7 @@
     "tsl": true,
     "dependencies": [],
     "instructions": "-",
-    "url": "Movie_Style_Holograms_Puzle",
+    "url": "Movie_Style_Holograms_Puzzle",
     "developer": "DarthParametric",
     "description": "HD holograms for the Twisted Rancor Trio puzzle"
   },
@@ -1065,15 +1065,15 @@
     "developer": "DarthParametric",
     "description": "HD holograms for the Rakatan"
   },
-  "Elder_Droid_Unique_Voice": {
-    "name": "Elder Droid Unique Voice",
+  "Elder_Droids_Unique_Voice": {
+    "name": "Elder Droids Unique Voice",
     "order": 88,
     "category": 4,
     "tier": 4,
     "tsl": true,
     "dependencies": [],
     "instructions": "-",
-    "url": "Elder_Droid_Unique_Voice",
+    "url": "Elder_Droids_Unique_Voice",
     "developer": "ebmar",
     "description": "Make Elder Droids speak Ancient Selkath"
   },
