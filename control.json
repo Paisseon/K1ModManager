@@ -82,10 +82,13 @@
     "tier": 1,
     "tsl": true,
     "dependencies": [],
-    "instructions": "After install, delete LKA_Leaf03.tpc",
+    "instructions": "-",
     "url": "K1_Community_Patch",
     "developer": "Various Authors",
-    "description": "Does a great many things, look it up"
+    "description": "Does a great many things, look it up",
+    "remove": [
+      "LKA_Leaf03.tpc"
+    ]
   },
   "Specularity_Tweaks": {
     "name": "Specularity Tweaks",
@@ -94,10 +97,15 @@
     "tier": 3,
     "tsl": true,
     "dependencies": [],
-    "instructions": "After install, delete PLC_CompPnl.tpc, PLC_CompPnl2.tpc, and PLC_footLker.tpc",
+    "instructions": "-",
     "url": "Specularity_Tweaks",
     "developer": "ebmar",
-    "description": "Alters specularity of the vanilla textures"
+    "description": "Alters specularity of the vanilla textures",
+    "remove": [
+      "PLC_CompPnl.tpc", 
+      "PLC_CompPnl2.tpc",
+      "PLC_footLker.tpc"
+    ]
   },
   "Duncan_on_Manaan": {
     "name": "Duncan On Manaan",
@@ -806,6 +814,14 @@
     "url": "HD_Blasters",
     "developer": "Sithspecter",
     "description": "HD textures for every blaster"
+    "remove": [
+      "w_ionrfl_04.mdl",
+      "w_ionrfl_04.mdx",
+      "w_rptnblstr_004.mdl",
+      "w_rptnblstr_004.mdx",
+      "w_blstrpstl_006.mdl",
+      "w_blstrpstl_006.mdx"
+    ]
   },
   "Republic_Ship_Unknown_World": {
     "name": "Crashed Republic Cruiser",
@@ -1010,7 +1026,7 @@
     "tier": 3,
     "tsl": true,
     "dependencies": [],
-    "instructions": "If using Cloaked Robes, use the compatibility patch. Dantooine option is your choice.",
+    "instructions": "Install the main mod. Dantooine option also works. The Cloaked Robes compatibility patch doesn't work on macOS, but it is not essential.",
     "url": "Diversified_Jedi_Captives",
     "developer": "DarthParametric",
     "description": "Use different models for captive Jedi"
@@ -1242,5 +1258,17 @@
     "url": "Impossible_Mode_Restored",
     "developer": "Zulkain",
     "description": "Restore the most difficult game mode"
-  }
+  },
+  "Slave_Bastila": {
+    "name": "JC's Slave Bastila for K1",
+    "order": 102,
+    "category": 1,
+    "tier": 3,
+    "tsl": true,
+    "dependencies": [],
+    "instructions": "-",
+    "url": "Slave_Bastila",
+    "developer": "JCarter426",
+    "description": "Give Bastila a slave outfit when you rescue her from the Vulkars instead of her underwear"
+  },
 }
