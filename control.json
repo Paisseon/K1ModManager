@@ -1271,4 +1271,78 @@
     "developer": "JCarter426",
     "description": "Give Bastila a slave outfit when you rescue her from the Vulkars instead of her underwear"
   },
+  "Better_Slave_Bastila": {
+    "name": "Exotic Costume of Bastila",
+    "order": 103,
+    "category": 1,
+    "tier": 3,
+    "tsl": false,
+    "dependencies": [
+      "Slave_Bastila"
+    ],
+    "instructions": "-",
+    "url": "Better_Slave_Bastila",
+    "developer": "Dark Hope",
+    "description": "A more luxurious appearance to JCarter426's Slave Bastila mod"
+  },
+  "HD_Terminal": {
+    "name": "HD Terminal",
+    "order": 104,
+    "category": 3,
+    "tier": 4,
+    "tsl": false,
+    "dependencies": [],
+    "instructions": "-",
+    "url": "HD_Terminal",
+    "developer": "Dark Hope",
+    "description": "Higher resolution for the computer terminals"
+  },
+  "Animated_Ebon_Hawk_Screen": {
+    "name": "Animated_Ebon_Hawk_Screen",
+    "order": 105,
+    "category": 1,
+    "tier": 4,
+    "tsl": false,
+    "dependencies": [],
+    "instructions": "-",
+    "url": "Animated_Ebon_Hawk_Screen",
+    "developer": "Dark Hope",
+    "description": "Animate the screens in the cockpit of the Ebon Hawk"
+  },
+  "HD_Scoundrel": {
+    "name": "HD Scoundrel Uniform",
+    "order": 106,
+    "category": 3,
+    "tier": 3,
+    "tsl": false,
+    "dependencies": [],
+    "instructions": "-",
+    "url": "HD_Scoundrel",
+    "developer": "Dark Hope",
+    "description": "A higher resolution uniform for the Scoundrel class"
+  },
+  "HD_Scout": {
+    "name": "HD Scout Uniform",
+    "order": 107,
+    "category": 3,
+    "tier": 3,
+    "tsl": false,
+    "dependencies": [],
+    "instructions": "-",
+    "url": "HD_Scout",
+    "developer": "Dark Hope",
+    "description": "A higher resolution uniform for the Scout class"
+  },
+  "HD_Soldier": {
+    "name": "HD Soldier Uniform",
+    "order": 108,
+    "category": 3,
+    "tier": 3,
+    "tsl": false,
+    "dependencies": [],
+    "instructions": "-",
+    "url": "HD_Soldier",
+    "developer": "Dark Hope",
+    "description": "A higher resolution uniform for the Soldier class"
+  }
 }
