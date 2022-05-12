@@ -32,7 +32,7 @@
     "dependencies": [
       "Character_Startup_Changes"
     ],
-    "instructions": "Install Character Startup Changes first",
+    "instructions": "-",
     "url": "Character_Startup_Changes_Patch",
     "developer": "A Future Pilot",
     "description": "Prevent Character Startup Changes from blocking access to basic weapons and armour"
@@ -70,7 +70,7 @@
     "dependencies": [
       "Ajunta_Pall_Appearance"
     ],
-    "instructions": "Install Ajunta Pall Appearance first",
+    "instructions": "-",
     "url": "Ajunta_Pall_Appearance_Patch",
     "developer": "A Future Pilot",
     "description": "Fixes something with Ajunta Pall Appearance, idk"
@@ -164,7 +164,7 @@
     "dependencies": [
       "Republic_Soldier_Fix"
     ],
-    "instructions": "Install Republic Soldier Fix first, then use options 3 and 5",
+    "instructions": "Use options 3 and 5",
     "url": "Republic_Soldier_New_Shade",
     "developer": "ebmar",
     "description": "Shiny texture for Republic soldiers"
@@ -250,7 +250,7 @@
     "dependencies": [
       "Shaleena_Lashowe_Mouth_Adjustment"
     ],
-    "instructions": "Install Shaleena/Lashowe Mouth Adjustment first",
+    "instructions": "-",
     "url": "Shaleena_Head_Restoration",
     "developer": "Stellar Exile",
     "description": "Restore a unique head intended for Shaleena"
@@ -906,7 +906,7 @@
     "dependencies": [
       "Sherruk_Lightsaber"
     ],
-    "instructions": "Install Sherruk with Lightsabers first",
+    "instructions": "-",
     "url": "Sherruk_Lightsaber_Patch",
     "developer": "A Future Pilot & DarthParametric",
     "description": "Fix for the Sherruk with Lightsabers mod"
