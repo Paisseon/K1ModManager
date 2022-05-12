@@ -26,9 +26,10 @@ Welcome to KOTOR 1 Mod Manager (K1MM for short), a tool designed to allow easy a
 **Moving to Device**
 1. Create a folder anywhere called Payload
 2. Copy ~/Downloads/KOTOR.app to Payload
-3. Compress Payload to Payload.zip
-4. Rename Payload.zip to Payload.ipa
-5. If not jailbroken: Sideload KOTOR_Modded.ipa to your iOS device using AltStore/Sideloadly
-6. If jailbroken: Transfer KOTOR_Modded.ipa to your iOS device using iMazing/Xenon/SCP/etc. and install using AppSync Unified
+3. Remove the 33 B **symlink** KOTOR (not the 14.8 MB executable!) from Payload/KOTOR.app
+4. Compress Payload to Payload.zip
+5. Rename Payload.zip to Payload.ipa
+6. If not jailbroken: Sideload Payload.ipa to your iOS device using AltStore/Sideloadly
+7. If jailbroken: Transfer Payload.ipa to your iOS device using iMazing/Xenon/SCP/etc. and install using AppSync Unified
 
 Done! You can now play KOTOR with mods =)
