@@ -9,6 +9,7 @@ Welcome to KOTOR 1 Mod Manager (K1MM for short), a tool designed to allow easy a
 - [TSLPatcher](https://deadlystream.com/files/file/1039-tsl-patcher-tlked-and-accessories/)
 
 \* Paid, but can be pirated or use the 14 day trial. Accept no substitutes.
+
 \** You will need an .ipa file for this. I [fly the Jolly Roger](https://0bin.net/paste/htdgPTtm#bgKxFLE44xy24hbncVIXwceVXhpZo2kkWc8qQTstqbG), but CrackerXI+ (if jailbroken) or [ipatool](https://github.com/Paisseon/ipatool/releases/tag/v1.1.0-paisseon) can also help.
 
 **Setup Instructions**
@@ -34,3 +35,5 @@ Welcome to KOTOR 1 Mod Manager (K1MM for short), a tool designed to allow easy a
 7. If jailbroken: Transfer Payload.ipa to your iOS device using iMazing/Xenon/SCP/etc. and install using AppSync Unified
 
 Done! You can now play KOTOR with mods =)
+
+Please let me know if the mod installer acts up, and if a problem occurs after the .ipa is sideloaded, let u/Snigaroo on Reddit know.
