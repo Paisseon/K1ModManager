@@ -813,7 +813,7 @@
     "instructions": "-",
     "url": "HD_Blasters",
     "developer": "Sithspecter",
-    "description": "HD textures for every blaster"
+    "description": "HD textures for every blaster",
     "remove": [
       "w_ionrfl_04.mdl",
       "w_ionrfl_04.mdx",
