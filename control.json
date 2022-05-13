@@ -1235,6 +1235,18 @@
     "developer": "Inyri Forge",
     "description": "Add female Mandalorians to Dantooine"
   },
+  "Untold_Love_Story": {
+    "name": "Bastila and F!Player: The Untold Love Story",
+    "order": 99,
+    "category": 6,
+    "tier": 1,
+    "tsl": false,
+    "dependencies": [],
+    "instructions": "-",
+    "url": "Untold Love Story",
+    "developer": "Master Kavar",
+    "description": "Add WLW romantic elements to the game"
+  },
   "Romancing_Of_Bastila": {
     "name": "The Romancing of Bastila",
     "order": 100,
@@ -1275,7 +1287,7 @@
     "name": "Exotic Costume of Bastila",
     "order": 103,
     "category": 1,
-    "tier": 3,
+    "tier": 4,
     "tsl": false,
     "dependencies": [
       "Slave_Bastila"
@@ -1344,5 +1356,17 @@
     "url": "HD_Soldier",
     "developer": "Dark Hope",
     "description": "A higher resolution uniform for the Soldier class"
+  },
+  "Spare_Mission": {
+    "name": "Spare Mission and Zaalbar",
+    "order": 109,
+    "category": 0,
+    "tier": 2,
+    "tsl": true,
+    "dependencies": [],
+    "instructions": "-",
+    "url": "Spare_Mission",
+    "developer": "DarknessSquall",
+    "description": "Give the option to spare Mission and Zaalbar for dark-side players"
   }
 }
