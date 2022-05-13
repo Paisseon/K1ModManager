@@ -6,11 +6,13 @@ Welcome to KOTOR 1 Mod Manager (K1MM for short), a tool designed to allow easy a
 - [AltStore](https://altstore.io) OR [Sideloadly](https://sideloadly.io) OR Jailbroken
 - [CrossOver](https://www.codeweavers.com/crossover/download) \*
 - [KOTOR 1](https://apps.apple.com/dk/app/star-wars-kotor/id416608891?l=da&amp;mt=12) \*\*
-- [TSLPatcher](https://deadlystream.com/files/file/1039-tsl-patcher-tlked-and-accessories/)
+- [TSLPatcher](https://krakenfiles.com/view/bBElfO1sv0/file.html) \*\*\*
 
 \* Paid, but can be pirated or use the 14 day trial. Accept no substitutes.
 
-\** You will need an .ipa file for this. I [fly the Jolly Roger](https://0bin.net/paste/htdgPTtm#bgKxFLE44xy24hbncVIXwceVXhpZo2kkWc8qQTstqbG), but CrackerXI+ (if jailbroken) or [ipatool](https://github.com/Paisseon/ipatool/releases/tag/v1.1.0-paisseon) can also help.
+\*\* You will need an .ipa file for this. I [fly the Jolly Roger](https://0bin.net/paste/htdgPTtm#bgKxFLE44xy24hbncVIXwceVXhpZo2kkWc8qQTstqbG), but CrackerXI+ (if jailbroken) or [ipatool](https://github.com/Paisseon/ipatool/releases/tag/v1.1.0-paisseon) can also help.
+
+\*\*\* Has to be this linked file (or download K1CP and take from it) and not another, as K1CP has trouble with other versions of TSLPatcher
 
 **Setup Instructions**
 1. Rename your .ipa file to KOTOR_1.2.7.ipa and ensure that it is located at ~/Downloads/KOTOR_1.2.7.ipa
