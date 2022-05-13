@@ -1236,14 +1236,14 @@
     "description": "Add female Mandalorians to Dantooine"
   },
   "Untold_Love_Story": {
-    "name": "Bastila and F!Player: The Untold Love Story",
+    "name": "Untold Love Story",
     "order": 99,
     "category": 6,
     "tier": 1,
     "tsl": false,
     "dependencies": [],
     "instructions": "-",
-    "url": "Untold Love Story",
+    "url": "Untold_Love_Story",
     "developer": "Master Kavar",
     "description": "Add WLW romantic elements to the game"
   },
