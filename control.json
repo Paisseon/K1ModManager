@@ -1292,6 +1292,9 @@
     "dependencies": [
       "Slave_Bastila"
     ],
+    "remove": [
+      "JC_SlaveBast01.tpc"
+    ],
     "instructions": "-",
     "url": "Better_Slave_Bastila",
     "developer": "Dark Hope",
