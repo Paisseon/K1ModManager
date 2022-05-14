@@ -1,3 +1,7 @@
+# WIP
+
+The app is fully completed, and I am now testing the build in-game. As of the "Purchasing a Droid" quest, everything is working as expected, save for one minor bug-- an unknown mod is changing the Auto-run setting name to "Mouse Look." It still works the same, just has a different name. Further bulletins as events warrant.
+
 # KOTOR 1 Mod Manager
 
 Welcome to KOTOR 1 Mod Manager (K1MM for short), a tool designed to allow easy and simple installation of mods for the iOS version of KOTOR 1. Please be aware that K1MM currently only supports mods from [Snigaroo's mobile build](https://www.reddit.com/r/kotor/wiki/k1fullbuildmobile) and a few hand-selected mods with compatibility. Now with that out of the way, let's start with the setup necessary to get your mods installed. It's very easy-- just follow the steps under **Setup Instructions** and you'll be good to go.
