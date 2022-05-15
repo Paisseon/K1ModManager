@@ -2,7 +2,7 @@
 
 The app is fully completed, and I am now testing the build in-game.
 
-**Current Progress**: Just entered Dune Sea for the first time on Tatooine. Already did swoop racing and started Bastila's side quest.
+**Current Progress**: 2/4 Star Maps, currently on Manaan.
 
 **Playing as a**: Female light-side Scoundrel 1/Consular X. Bastila route ofc. Doing *every* sidequest.
 
