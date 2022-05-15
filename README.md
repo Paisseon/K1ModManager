@@ -1,6 +1,17 @@
 # WIP
 
-The app is fully completed, and I am now testing the build in-game. As of finding the Star Map on Dantooine, everything is working as expected. Further bulletins as events warrant.
+The app is fully completed, and I am now testing the build in-game.
+
+**Current Progress**: Just entered Dune Sea for the first time on Tatooine. Already did swoop racing and started Bastila's side quest.
+
+**Playing as a**: Female light-side Scoundrel 1/Consular X. Bastila route ofc. Doing *every* sidequest.
+
+**Issues Encountered**
+- The UI labels are for desktop, e.g. Auto Run is called Mouse Look. No impact on mechanics.            | Culprit: K1CP?
+- Some weapons, e.g. Sith Assassin Pistol, have black boxes for icons. No impact on in-game appearance. | Culprit: HD Blasters
+- Helena Shan does not have a unique appearance.                                                        | Culprit: Helena Shan Improvement?
+
+Further bulletins as events warrant.
 
 # KOTOR 1 Mod Manager
 
