@@ -1347,17 +1347,5 @@
     "url": "Spare_Mission",
     "developer": "DarknessSquall",
     "description": "Give the option to spare Mission and Zaalbar for dark-side players"
-  },
-  "Remove_Alignment_Restrictions": {
-    "name": "Remove Force Alignment Restrictions",
-    "order": 110,
-    "category": 5,
-    "tier": 4,
-    "tsl": false,
-    "dependencies": [],
-    "instructions": "-",
-    "url": "Remove_Alignment_Restrictions",
-    "developer": "N-DReW25",
-    "description": "Allow use of alignment-restricted items regardless of alignment"
-  },
+  }
 }
