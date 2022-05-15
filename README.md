@@ -1,6 +1,6 @@
 # WIP
 
-The app is fully completed, and I am now testing the build in-game. As of the "Purchasing a Droid" quest, everything is working as expected, save for one minor bug-- an unknown mod is changing the Auto-run setting name to "Mouse Look." It still works the same, just has a different name. Further bulletins as events warrant.
+The app is fully completed, and I am now testing the build in-game. As of finding the Star Map on Dantooine, everything is working as expected. Further bulletins as events warrant.
 
 # KOTOR 1 Mod Manager
 
