@@ -1223,18 +1223,6 @@
     "developer": "ZimmMaster",
     "description": "Fix the weird walking animation bug"
   },
-  "Female_Mandalorians": {
-    "name": "Female Mandalorians",
-    "order": 99,
-    "category": 1,
-    "tier": 2,
-    "tsl": true,
-    "dependencies": [],
-    "instructions": "-",
-    "url": "Female_Mandalorians",
-    "developer": "Inyri Forge",
-    "description": "Add female Mandalorians to Dantooine"
-  },
   "Untold_Love_Story": {
     "name": "Untold Love Story",
     "order": 99,
