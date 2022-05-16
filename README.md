@@ -2,7 +2,7 @@
 
 The app is fully completed, and I am now testing the build in-game.
 
-**Current Progress**: 2/5 Star Maps, currently on Manaan.
+**Current Progress**: 4/5 Star Maps, currently on Korriban.
 
 **Playing as a**: Female light-side Scoundrel 1/Consular X. Bastila route ofc. Doing *every* sidequest.
 
