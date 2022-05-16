@@ -2,14 +2,15 @@
 
 The app is fully completed, and I am now testing the build in-game.
 
-**Current Progress**: 2/4 Star Maps, currently on Manaan.
+**Current Progress**: 2/5 Star Maps, currently on Manaan.
 
 **Playing as a**: Female light-side Scoundrel 1/Consular X. Bastila route ofc. Doing *every* sidequest.
 
 **Issues Encountered**
 - The UI labels are for desktop, e.g. Auto Run is called Mouse Look. No impact on mechanics.            | Culprit: K1CP?
+- The dead guy on Dantooine whose murder is being investigated shows dominance by T-posing.             | Culprit: K1CP
 - Some weapons, e.g. Sith Assassin Pistol, have black boxes for icons. No impact on in-game appearance. | Culprit: HD Blasters
-- Helena Shan does not have a unique appearance.                                                        | Culprit: Helena Shan Improvement?
+- Helena Shan does not have a unique appearance.                                                        | Culprit: Romancing of Bastila
 
 Further bulletins as events warrant.
 
