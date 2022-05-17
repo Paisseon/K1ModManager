@@ -798,7 +798,7 @@
     "tier": 2,
     "tsl": true,
     "dependencies": [],
-    "instructions": "Both options work",
+    "instructions": "Either option works",
     "url": "Security_Spikes",
     "developer": "JCarter426",
     "description": "Restore the functionality of the useless security spikes"
@@ -1026,7 +1026,7 @@
     "tier": 3,
     "tsl": true,
     "dependencies": [],
-    "instructions": "Install the main mod. Dantooine option also works. The Cloaked Robes compatibility patch doesn't work on macOS, but it is not essential.",
+    "instructions": "Install the main mod. Dantooine option also works.",
     "url": "Diversified_Jedi_Captives",
     "developer": "DarthParametric",
     "description": "Use different models for captive Jedi"
@@ -1139,18 +1139,6 @@
     "developer": "TK-664",
     "description": "Use K2's rebalanced stats in K1"
   },
-  "HD_Gaffi": {
-    "name": "HQ Gaffi Sticks",
-    "order": 93,
-    "category": 3,
-    "tier": 3,
-    "tsl": true,
-    "dependencies": [],
-    "instructions": "-",
-    "url": "HD_Gaffi",
-    "developer": "FallenGuardian",
-    "description": "HD gaffi sticks on Tatooine"
-  },
   "Dantooine_Training_Lightsaber": {
     "name": "Dantooine Training Lightsabers",
     "order": 94,
@@ -1221,7 +1209,7 @@
     "instructions": "-",
     "url": "Untold_Love_Story",
     "developer": "Master Kavar",
-    "description": "Add WLW romantic elements to the game"
+    "description": "Remove gender-based checks for various NPC interactions"
   },
   "Romancing_Of_Bastila": {
     "name": "The Romancing of Bastila",
@@ -1233,7 +1221,7 @@
     "instructions": "-",
     "url": "Romancing_Of_Bastila",
     "developer": "Darth Shan & Swfan28",
-    "description": "Allow F!Player to romance Bastila. Also fixes a bug for dark-side M!Players."
+    "description": "Allow F!Player to romance Bastila. Also fixes a bug for dark-siders of any gender"
   },
   "Impossible_Mode_Restored": {
     "name": "Impossible Mode Restored",
