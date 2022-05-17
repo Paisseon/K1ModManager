@@ -1335,5 +1335,17 @@
     "url": "Spare_Mission",
     "developer": "DarknessSquall",
     "description": "Give the option to spare Mission and Zaalbar for dark-side players"
+  },
+  "Remove_Alignment_Lock": {
+    "name": "Remove Force Alignment Restrictions",
+    "order": 110,
+    "category": 5,
+    "tier": 4,
+    "tsl": false,
+    "dependencies": [],
+    "instructions": "-",
+    "url": "Remove_Alignment_Lock",
+    "developer": "N-DReW25",
+    "description": "Remove the alignment lock on some items, e.g., the Solari crystal"
   }
 }
