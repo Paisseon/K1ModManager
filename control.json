@@ -1347,5 +1347,17 @@
     "url": "Remove_Alignment_Lock",
     "developer": "N-DReW25",
     "description": "Remove the alignment lock on some items, e.g., the Solari crystal"
-  }
+  },
+  "Kill_Gorton": {
+    "name": "Kill Gorton",
+    "order": 111,
+    "category": 0,
+    "tier": 4,
+    "tsl": false,
+    "dependencies": [],
+    "instructions": "-",
+    "url": "Kill_Gorton",
+    "developer": "Mindtwistah",
+    "description": "Adds the option to kill the Anti-Alien League guy on Taris"
+  },
 }
