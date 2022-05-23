@@ -10,7 +10,7 @@ import Foundation
 // Download mod files in the background
 
 func downloadMod(from src: String) {
-    let r1Url = URL(string: "https://chomikuj.pl/farato/Dokumenty/modfiles/\(src).zip")!
+    let r1Url = URL(string: "https://example.com/\(src).zip")!
     
     guard let r1 = try? String(contentsOf: r1Url, encoding: String.Encoding.utf8) else {
         showAlert("Couldn't find mod for id \(src)")
@@ -23,15 +23,15 @@ func downloadMod(from src: String) {
     }
     
     let fileId  = r1[r1Range]
-    let r2Token = "&__RequestVerificationToken=b%2BsiLdIH65m5AVq2Xk7B0VHudOFB%2BrddgeMKqSSaYhNNEHULqRRQbNWkLDrPB%2FT%2F2aCx0RIJUz3w5UVygR6StTykyxlNxGWo3iWYC5eIjljDNHYcM5AL9MbQagSUy6YKs%2BkyXg%3D%3D"
+    let r2Token = "&__RequestVerificationToken=token"
     let r2Data = "fileId=\(fileId)\(r2Token)".data(using: .utf8)
-    let r2Url  = URL(string: "https://chomikuj.pl/action/License/Download")!
+    let r2Url  = URL(string: "https://example.com/Download")!
     var r2     = URLRequest(url: r2Url)
     
     r2.httpMethod = "POST"
     r2.httpBody   = r2Data
     r2.setValue("XMLHttpRequest", forHTTPHeaderField: "X-Requested-With")
-    r2.setValue("ChomikSession=d3fb23c6-430d-456c-b729-bbb72fefaf99; __RequestVerificationToken_Lw__=w8xQ4U9IcdB71uD/zSxUsJXuEQQOsI1Dogfg9d4xN3p0xxRp/wTg+oqiDdqIYGZfhEfswCKnlA47H0IBDt53LrdOy7oCNzKdOdp/lTwQAn/Zw++5skZFvLLcktKreTD7mZMZTQ==; rcid=3; guid=999f1623-f0ea-4497-8775-50832b6258df;", forHTTPHeaderField: "Cookie")
+    r2.setValue("cookie", forHTTPHeaderField: "Cookie")
     
     var response  = Data()
     let semaphore = DispatchSemaphore(value: 0)
