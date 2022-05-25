@@ -30,11 +30,12 @@ Welcome to KOTOR 1 Mod Manager (K1MM for short), a tool designed to allow easy a
 5. When the install is finished (it tells you this, too), click Fix Case Sensitivity
 
 **Moving to Device**
-1. Remove the KOTOR *symlink* from ~/Downloads/KOTOR.app, which is 33 B. **Don't** remove the 14,1 MB executable of the same name!
-2. Create a folder anywhere called Payload
-3. Copy ~/Downloads/KOTOR.app to Payload
-4. Compress Payload to Payload.zip
-5. Rename Payload.zip to Payload.ipa
-6. Sideload Payload.ipa to your iOS device
+1. Remove the KOTOR *symlink* from ~/Documents/KOTOR.app, which is 33 B. **Don't** remove the 14,1 MB executable of the same name!
+2. Remove duplicate .tpc files. This can be automated using the removeDuplicateTPC.sh file in this repo
+3. Create a folder anywhere called Payload
+4. Copy ~/Documents/KOTOR.app to Payload
+5. Compress Payload to Payload.zip
+6. Rename Payload.zip to Payload.ipa
+7. Sideload Payload.ipa to your iOS device
 
 Done! You can now play KOTOR with mods =)
