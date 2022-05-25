@@ -2,7 +2,7 @@
 
 Welcome to KOTOR 1 Mod Manager (K1MM for short), a tool designed to allow easy and simple installation of mods for the iOS version of KOTOR 1. Please be aware that K1MM currently only supports mods from [Snigaroo's mobile build](https://www.reddit.com/r/kotor/wiki/k1fullbuildmobile) and a few hand-selected mods with compatibility. Now with that out of the way, let's start with the setup necessary to get your mods installed. It's very easy-- just follow the steps under **Setup Instructions** and you'll be good to go.
 
-*If you have not played KOTOR before, ONLY read the description in the K1MM app as the TSLPatcher descriptions contain spoilers!*
+*If you have not played KOTOR before, ONLY read the description in the K1MM app as the TSLPatcher descriptions contain spoilers! Also, this tool is not affiliated with Snigaroo or literally anyone but me.*
 
 **Required Apps**
 - [AltStore](https://altstore.io) OR [Sideloadly](https://sideloadly.io) OR Jailbroken
